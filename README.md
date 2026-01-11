@@ -61,8 +61,9 @@ I believe strong fundamentals, consistency, and curiosity matter more than rushi
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amangp&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amangp&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ---
 
