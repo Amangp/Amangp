@@ -65,7 +65,6 @@ I believe strong fundamentals, consistency, and curiosity matter more than rushi
 
 
 
-
 ---
 
 ## ⚡ Beyond Code
