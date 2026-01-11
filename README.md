@@ -79,14 +79,12 @@ I believe strong fundamentals, consistency, and curiosity matter more than rushi
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Amangp">
-    <img src="https://skillicons.dev/icons?i=github" /><br/>
-    <sub>GitHub</sub>
+  <a href="https://github.com/Amangp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/aman-gupta-056635215">
-    <img src="https://skillicons.dev/icons?i=linkedin" /><br/>
-    <sub>LinkedIn</sub>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/aman-gupta-056635215" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
